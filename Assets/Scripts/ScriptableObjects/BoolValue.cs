@@ -1,0 +1,22 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[CreateAssetMenu]
+[System.Serializable]
+public class BoolValue : ScriptableObject
+{
+    public bool initialBoolValue;
+    
+    public bool RuntimeValue;
+
+    /*public void OnAfterDeserialize()
+    {
+        RuntimeValue = initialBoolValue;
+    }
+
+    public void OnBeforeSerialize()
+    {
+
+    }*/
+}

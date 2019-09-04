@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Breakable
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - ColideObjects
+  - EnemyProjectile
+  - PlayerProjectile
+  - Player
+  - Pushable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Colisions
+    uniqueID: 3691552521
+    locked: 0
+  - name: Sign
+    uniqueID: 3368810841
+    locked: 0
+  - name: Breakable
+    uniqueID: 3819825183
+    locked: 0
+  - name: Enemy
+    uniqueID: 1522181777
+    locked: 0
+  - name: Player
+    uniqueID: 4052620015
+    locked: 0
+  - name: Popup
+    uniqueID: 1395024275
+    locked: 0
